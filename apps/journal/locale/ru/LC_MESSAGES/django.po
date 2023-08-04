@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-17 04:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+#: apps/journal/apps.py:8 apps/journal/models.py:108
+msgid "Journal"
+msgstr ""
+
+#: apps/journal/constants.py:6
+msgid "Male"
+msgstr ""
+
+#: apps/journal/constants.py:7
+msgid "Female"
+msgstr ""
+
+#: apps/journal/constants.py:11
+msgid "Entered"
+msgstr ""
+
+#: apps/journal/constants.py:12
+msgid "Exited"
+msgstr ""
+
+#: apps/journal/filters.py:13 apps/journal/models.py:29
+msgid "Membership type"
+msgstr ""
+
+#: apps/journal/filters.py:21
+msgid "Key type"
+msgstr ""
+
+#: apps/journal/filters.py:25
+msgid "Date"
+msgstr ""
+
+#: apps/journal/filters.py:26
+msgid "Format: YYYY-MM-DD"
+msgstr ""
+
+#: apps/journal/models.py:17
+msgid "Key"
+msgstr ""
+
+#: apps/journal/models.py:23
+msgid "Membership"
+msgstr ""
+
+#: apps/journal/models.py:36
+msgid "Payment"
+msgstr ""
+
+#: apps/journal/models.py:44
+msgid "Trainer"
+msgstr ""
+
+#: apps/journal/models.py:49
+msgid "Status"
+msgstr ""
+
+#: apps/journal/models.py:53
+msgid "Entry time"
+msgstr ""
+
+#: apps/journal/models.py:57
+msgid "Exit time"
+msgstr ""
+
+#: apps/journal/models.py:62
+msgid "Actual exit time"
+msgstr ""
+
+#: apps/journal/models.py:67
+msgid "Create date"
+msgstr ""
+
+#: apps/journal/models.py:78
+msgid "Membership has no active payments"
+msgstr ""
+
+#: apps/journal/models.py:83
+msgid "Membership has no remaining visits"
+msgstr ""
+
+#: apps/journal/models.py:88
+msgid "Key is already in use"
+msgstr ""
+
+#: apps/journal/models.py:109
+msgid "Journals"
+msgstr ""

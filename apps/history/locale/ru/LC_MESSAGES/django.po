@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-17 04:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+#: apps/history/constants.py:6
+msgid "Freeze"
+msgstr ""
+
+#: apps/history/constants.py:7
+msgid "Unfreeze"
+msgstr ""
+
+#: apps/history/constants.py:8
+msgid "Refund"
+msgstr ""
+
+#: apps/history/constants.py:9
+msgid "Payment"
+msgstr ""
+
+#: apps/history/models.py:10
+msgid "Name"
+msgstr ""
+
+#: apps/history/models.py:15
+msgid "Icon"
+msgstr ""
+
+#: apps/history/models.py:24
+msgid "History type"
+msgstr ""
+
+#: apps/history/models.py:25
+msgid "History types"
+msgstr ""
+
+#: apps/history/models.py:31
+msgid "Membership"
+msgstr ""
+
+#: apps/history/models.py:37
+msgid "Type"
+msgstr ""
+
+#: apps/history/models.py:42
+msgid "Description"
+msgstr ""
+
+#: apps/history/models.py:47
+msgid "Created at"
+msgstr ""
+
+#: apps/history/models.py:51
+msgid "Updated at"
+msgstr ""
+
+#: apps/history/models.py:59
+msgid "Membership history"
+msgstr ""
+
+#: apps/history/models.py:60
+msgid "Membership histories"
+msgstr ""
